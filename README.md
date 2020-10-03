@@ -71,6 +71,9 @@ Design System (Colours)
     - Secondary Variant #566861
     - On Secondary #f2f2f2
 - Highlight/Links #c64646
+    - On Highlights/Links #f2f2f2
+- Buttons #a03737
+    - On Buttons #f2f2f2
  
 o	Fonts
     	Oswald (headings)
